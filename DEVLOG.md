@@ -48,3 +48,6 @@
 **What I learned:** Writing ECONOMICS.md forced me to think like a founder, not an engineer. The unit economics math is harder than it looks.
 **Blockers / what I'm stuck on:** Nothing blocking.
 **Plan for tomorrow:** N/A â€” submitted.
+
+## CI Note
+CI workflow was removed due to GitHub Personal Access Token lacking 'workflow' scope permissions during initial push. The workflow file exists locally but could not be pushed. Tests run successfully locally with 'npm test' — all 8 passing.
